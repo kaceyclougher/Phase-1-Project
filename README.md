@@ -1,5 +1,5 @@
 # Aviation Safety Analysis
-Authors: Deniz Emre, Iriwin Lam, and Kacey Clougher
+Authors: Deniz Emre, Irwin Lam, and Kacey Clougher
 
 ![index](https://github.com/kaceyclougher/Phase-1-Project/assets/137820049/b70a847e-20ed-4e84-9952-731829fc5779)
 
