@@ -39,8 +39,7 @@ The manufacturers Cessna and Piper primarily provide reciprocating engine-type a
 
 The third manufacturer, Boeing, is best known for long-distance passenger travel using turbojet or turboprop engine types. Below are the top Boeing models. 
 
-![Screen Shot 2023-08-25 at 11 06 54 AM](https://github.com/kaceyclougher/Phase-1-Project/assets/137820049/01001f0f-2c6f-4022-b590-ea1f5500224f)
-
+![Screen Shot 2023-08-25 at 11 10 20 AM](https://github.com/kaceyclougher/Phase-1-Project/assets/137820049/b095e564-6b51-49cf-bce1-ca62ed531e5c)
 
 ## Conclusions
 
