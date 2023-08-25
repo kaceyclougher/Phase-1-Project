@@ -2,6 +2,9 @@
 
 Author: Deniz Emre, Iriwin Lam, and Kacey Clougher
 
+![index](https://github.com/kaceyclougher/Phase-1-Project/assets/137820049/13a6f23a-59eb-42ad-9d82-36bb8981c2fe)
+
+
 ## Overview
 
 This project the Aviation Accident dataset, which contains data no aircraft incidents and accidents from 1948 to the present. Within this dataset, we uncover patterns in the reported accidents that have resulted in harm to passengers or damage to the aircraft. Our analysis aims to assist a new aviation company in identifying airplanes that are classified as low-risk according to our safety score.
