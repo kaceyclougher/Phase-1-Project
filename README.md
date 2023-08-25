@@ -23,19 +23,22 @@ We conducted separate analyses of weather conditions, engine types, and flight p
 
 Aircraft accidents were not reported before 1981. Accident rates decrease significantly over the 50-year timespan. This can be attributed to higher safety standards and improvement in aviation engineering. 
 
-![Aviation_Accidents_Over_Years](https://github.com/kaceyclougher/Phase-1-Project/assets/137820049/774bc9d6-b496-4c94-ade2-cfd38c12e64f)
+![Screen Shot 2023-08-25 at 11 06 11 AM](https://github.com/kaceyclougher/Phase-1-Project/assets/137820049/50c858ac-4222-43ce-8c0a-d32d97f67033)
+
 
 There was a mix of aircraft types including smaller passenger planes primarily used for local or private activities (skydiving, advertising, low-passenger private travel, etc.) and larger passenger jets. 
 
 The top ten safest aircrafts included a mix of both types, however, they were made up of only three manufacturers. 
+![Screen Shot 2023-08-25 at 11 06 16 AM](https://github.com/kaceyclougher/Phase-1-Project/assets/137820049/b57be40b-b527-4cd0-a4b1-55689056d18e)
 
-![Top_10_Models_Safety_Scores](https://github.com/kaceyclougher/Phase-1-Project/assets/137820049/34ca82a2-ac42-43e6-83d6-4cc5a7d68c91)
 
 The manufacturers Cessna and Piper primarily provide reciprocating engine-type aircraft for smaller passenger counts (2-8 people). These planes are best known for recreational flying at low altitudes or short-distance passenger travel. Below are the top five models according to safety score.
-![Cessna_Piper_Safety_Scores](https://github.com/kaceyclougher/Phase-1-Project/assets/137820049/f87421eb-affd-417e-8858-763641bd9f42)
+![Screen Shot 2023-08-25 at 11 06 54 AM](https://github.com/kaceyclougher/Phase-1-Project/assets/137820049/6e8a4b72-1a17-4695-9797-7f1b366b7ada)
+
 
 The third manufacturer, Boeing, is best known for long-distance passenger travel using turbojet or turboprop engine types. Below are the top Boeing models. 
-![Boeing_Safety_Scores](https://github.com/kaceyclougher/Phase-1-Project/assets/137820049/a693d9af-4f0f-4e0f-a5bd-c3983b21740f)
+![Screen Shot 2023-08-25 at 11 06 54 AM](https://github.com/kaceyclougher/Phase-1-Project/assets/137820049/01001f0f-2c6f-4022-b590-ea1f5500224f)
+
 
 ## Conclusions
 
