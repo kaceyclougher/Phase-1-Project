@@ -33,10 +33,12 @@ The top ten safest aircrafts included a mix of both types, however, they were ma
 
 
 The manufacturers Cessna and Piper primarily provide reciprocating engine-type aircraft for smaller passenger counts (2-8 people). These planes are best known for recreational flying at low altitudes or short-distance passenger travel. Below are the top five models according to safety score.
+
 ![Screen Shot 2023-08-25 at 11 06 54 AM](https://github.com/kaceyclougher/Phase-1-Project/assets/137820049/6e8a4b72-1a17-4695-9797-7f1b366b7ada)
 
 
 The third manufacturer, Boeing, is best known for long-distance passenger travel using turbojet or turboprop engine types. Below are the top Boeing models. 
+
 ![Screen Shot 2023-08-25 at 11 06 54 AM](https://github.com/kaceyclougher/Phase-1-Project/assets/137820049/01001f0f-2c6f-4022-b590-ea1f5500224f)
 
 
