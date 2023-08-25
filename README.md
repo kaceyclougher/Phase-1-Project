@@ -45,5 +45,5 @@ The third manufacturer, Boeing, is best known for long-distance passenger travel
 * Additional data such as the age of the airplane as an additional factor could enhance our assessment for potential purchases since newer aircraft typically experience fewer accidents.
 
 For More Information
-See the full analysis in our Jupyter Notebook or [dashboard](https://public.tableau.com/views/AviationAnalysisDashboard_16929112179230/AnalysisDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+See the full analysis in our [Jupyter Notebook](https://github.com/kaceyclougher/Phase-1-Project/blob/5ff35d7bdba25945cb627057e3f09c06b307701f/Phase%201%20Project%20Final.ipynb) or [dashboard](https://public.tableau.com/views/AviationAnalysisDashboard_16929112179230/AnalysisDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
